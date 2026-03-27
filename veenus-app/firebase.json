@@ -1,12 +1,8 @@
 {
   "hosting": {
-    "site": "veenus",
+    "site": "veenus-3451d",
     "public": "out",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ],
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
       {
         "source": "**",
